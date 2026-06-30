@@ -1,5 +1,6 @@
 🤖 AI Recruiter Pipeline: Job Analyzer & Resume Matcher 📄✨
 
+
 An automated, data-driven recruitment intelligence system built with LangChain and Google Gemini-2.5-Flash. This pipeline ingests messy, unstructured job descriptions, extracts core professional parameters into clean schemas, and cross-evaluates candidate resumes to provide compatibility scores and actionable optimization tips.
 
 🚀 Key Features
@@ -41,9 +42,9 @@ When executed, the system renders structured insights directly to the reporting 
  Overlapping Skills  : Python, SQL
  Missing Skill Gaps  : FastAPI, MongoDB
 
- Actionable Resume Optimization Tips:
+** Actionable Resume Optimization Tips:
   • Gain at least 2 more years of experience to meet the '5+ years' requirement for a Senior role.
   • Acquire hands-on experience with FastAPI, as it is a mandatory skill for this position.
   • Develop proficiency in MongoDB, which is a critical mandatory skill.
   • Consider learning AWS to align with the preferred skills for the role.
-========================================================================
+========================================================================**
