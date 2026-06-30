@@ -5,7 +5,7 @@ An automated, data-driven recruitment intelligence system built with LangChain a
 
 
 
-🚀 Key Features
+🚀 **Key Features**
 
 🔍 Automated Job Extraction: Parses unstructured job postings to dynamically extract job titles, target experience levels, mandatory technical skills, and bonus qualifications.
 
@@ -17,7 +17,7 @@ An automated, data-driven recruitment intelligence system built with LangChain a
 
 
 
-🛠️ Technology Stack
+🛠️ **Technology Stack**
 
 Core Orchestration: LangChain (Expression Language & Prompts)
 
@@ -29,7 +29,7 @@ Environment Management: python-dotenv
 
 
 
-🏗️ Architecture & Component Flow
+🏗️ **Architecture & Component Flow**
 
 The application functions through a structured multi-stage execution workflow:
 
@@ -43,11 +43,12 @@ The application functions through a structured multi-stage execution workflow:
 
                                │
                                ▼
+                   
                    📊 Final Dashboard Report
 
 
 
-📊 Sample Output Report
+📊 **Sample Output Report**
 
 When executed, the system renders structured insights directly to the reporting interface:
 
