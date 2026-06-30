@@ -4,6 +4,7 @@
 An automated, data-driven recruitment intelligence system built with LangChain and Google Gemini-2.5-Flash. This pipeline ingests messy, unstructured job descriptions, extracts core professional parameters into clean schemas, and cross-evaluates candidate resumes to provide compatibility scores and actionable optimization tips.
 
 
+
 🚀 Key Features
 
 🔍 Automated Job Extraction: Parses unstructured job postings to dynamically extract job titles, target experience levels, mandatory technical skills, and bonus qualifications.
@@ -15,6 +16,7 @@ An automated, data-driven recruitment intelligence system built with LangChain a
 📊 Insight Dashboard: Generates clean, terminal-friendly evaluation summaries with actionable optimization recommendations for candidates.
 
 
+
 🛠️ Technology Stack
 
 Core Orchestration: LangChain (Expression Language & Prompts)
@@ -24,6 +26,7 @@ LLM Provider: Google Generative AI (gemini-2.5-flash)
 Data Validation: Pydantic (Schemas & Blueprints)
 
 Environment Management: python-dotenv
+
 
 
 🏗️ Architecture & Component Flow
@@ -40,8 +43,8 @@ The application functions through a structured multi-stage execution workflow:
 
                                │
                                ▼
-                               
-                        📊 Final Dashboard Report
+                   📊 Final Dashboard Report
+
 
 
 📊 Sample Output Report
