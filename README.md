@@ -1,4 +1,5 @@
-🤖 AI Recruiter Pipeline: Job Analyzer & Resume Matcher 📄✨
+                                             🤖 AI Recruiter Pipeline: Job Analyzer & Resume Matcher 📄✨
+
 An automated, data-driven recruitment intelligence system built with LangChain and Google Gemini-2.5-Flash. This pipeline ingests messy, unstructured job descriptions, extracts core professional parameters into clean schemas, and cross-evaluates candidate resumes to provide compatibility scores and actionable optimization tips.
 
 🚀 Key Features
